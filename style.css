@@ -1,0 +1,51 @@
+.socialButtonsRow{
+	width: 90%;
+}
+
+.container{
+	    height: 100vh;
+    	width: 98vw;
+
+}
+body{
+	font-family: Lato;
+	color: white;
+	background-color: #212121;
+}
+
+
+footer{
+	color: #FF0254;
+}
+
+h1{
+font-size: 25vw; 
+font-weight: 800;
+
+}
+
+h2{
+font-size: 4vw; 
+font-weight: 100;
+}
+
+h3{
+font-size: 2vw; 
+font-weight: 800;
+}
+.socialText{
+	color: white;
+	font-weight: 400;
+}
+
+.socialIcon{
+	color: #FF0254;
+}
+
+.modal-content{
+	color:#212121;
+}
+
+.fixed-action-btn horizontal{
+	height: 10%!important;
+}
